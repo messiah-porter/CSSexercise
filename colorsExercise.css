@@ -1,0 +1,9 @@
+/*In your css file, create styles using the “color” (AKA Text Color) property for each element. Use all 7 ways to write a color (color name, hexadecimal, hexadecimal shorthand, hexadecimal with transparency, hexadecimal with transparency shorthand, RGB, & RGBA). You can pick the colors.*/
+
+h1 {color: aqua;}
+h2 {color: #68ff;}
+h3 {color: #a730e3;}
+h4 {color: rgb(255, 120, 152);}
+h5 {color: rgba(0, 0, 255, 0.5);}
+h6 {color: #ff007b20;}
+p {color: #ff06;}
